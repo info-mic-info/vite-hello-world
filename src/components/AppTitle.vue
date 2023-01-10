@@ -9,8 +9,8 @@
         }
         </script>
 <template lang="">
-    <div>
-        {{example}}
+    <div class="text-center">
+       <h3>{{example}}</h3>
     </div>
 </template>
 <style>

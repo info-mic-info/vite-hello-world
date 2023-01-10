@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: solid black 1px; */
+}
+
+
+
+.text-center {
+    text-align: center;
+    color: white;
+    background-color: blue;
+    margin-top: 20rem;
+    height: 50px;
+
+
+}
+
+h3 {
+    line-height: 50px;
+}
